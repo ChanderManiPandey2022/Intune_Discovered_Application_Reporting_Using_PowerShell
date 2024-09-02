@@ -1,0 +1,6 @@
+DeviceName,UserName,EmailAddress,OSDescription,OSVersion,Platform,ApplicationName,ApplicationVersion,ApplicationPublisher
+Device1,User1,User1@demolab.com,Windows,10.0.19045.4651,Windows,Microsoft Intune Management Extension,1.81.107.0,Microsoft Corporation
+Device2,User2,User2@demolab.com,Windows,10.0.19045.4651,Windows,Microsoft Intune Management Extension,1.81.107.0,Microsoft Corporation
+Device3,User3,User3@demolab.com,Windows,10.0.22631.4037,Windows,Microsoft Intune Management Extension,1.81.107.0,Microsoft Corporation
+Device4,User4,User4@demolab.com,Windows,10.0.19045.4651,Windows,Microsoft Intune Management Extension,1.81.107.0,Microsoft Corporation
+Device5,User5,User5@demolab.com,Windows,10.0.19045.4170,Windows,Microsoft Intune Management Extension,1.81.107.0,Microsoft Corporation
